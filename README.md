@@ -62,18 +62,20 @@ The ANN uses fully connected layers with dropout and a sigmoid output for binary
 
 ## Repository structure
 
-Arrange your existing files as applicable; names below are illustrative and should match your actual upload:
-
+The repository contains the Streamlit application, data analysis notebooks, trained model artifacts (where included), project screenshots, and documentation.
 ```text
+
 E-Commerce-AI-Intelligence-Platform/
-├── app.py                  # Streamlit application (or app/app.py)
-├── notebooks/              # EDA, feature engineering, model training
-├── screenshots/            # Dashboard screenshots
-├── reports/                # Capstone presentation or project report
-├── models/                 # Optional small, redistributable model artifacts
+├── E-Commerce-AI-Intelligence-Platform/
+│   ├── app.py
+│   ├── notebooks/
+│   ├── screenshots/
+│   ├── reports/
+│   └── models/
 ├── requirements.txt
-└── README.md
-```
+├── README.md
+└── .gitignore
+
 
 ## Run locally
 
@@ -102,7 +104,9 @@ E-Commerce-AI-Intelligence-Platform/
 5. Start the dashboard:
 
    ```bash
-   streamlit run app.py
+   
+streamlit run E-Commerce-AI-Intelligence-Platform/app.py
+
    ```
 
    If your app is inside an `app/` folder, use `streamlit run app/app.py` instead.
