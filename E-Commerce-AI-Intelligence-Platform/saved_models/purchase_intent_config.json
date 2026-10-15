@@ -1,0 +1,17 @@
+{
+    "features": [
+        "total_events",
+        "views",
+        "add_to_cart",
+        "unique_products",
+        "session_duration_minutes",
+        "session_hour",
+        "day_of_week",
+        "is_weekend",
+        "month",
+        "previous_session_count",
+        "previous_purchase_count",
+        "hours_since_previous_session"
+    ],
+    "threshold": 0.94
+}
