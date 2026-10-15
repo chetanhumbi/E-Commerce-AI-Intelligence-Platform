@@ -67,7 +67,7 @@ The repository contains the Streamlit application, data analysis notebooks, trai
 
 E-Commerce-AI-Intelligence-Platform/
 ├── E-Commerce-AI-Intelligence-Platform/
-│   ├── app.py
+│   ├── App.py
 │   ├── notebooks/
 │   ├── screenshots/
 │   ├── reports/
@@ -102,10 +102,10 @@ E-Commerce-AI-Intelligence-Platform/
 4. Place the required **trained ANN, scaler, recommender, and metadata files** in the locations expected by `app.py`. If these artifacts are not included, train/export them using the project notebook first.
 
 5. Start the dashboard:
-
-   ```bash
    
-streamlit run E-Commerce-AI-Intelligence-Platform/app.py
+
+streamlit run E-Commerce-AI-Intelligence-Platform/App/App.py
+
 
    ```
 
