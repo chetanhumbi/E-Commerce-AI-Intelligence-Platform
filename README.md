@@ -69,9 +69,7 @@ E-Commerce-AI-Intelligence-Platform/
 ├── E-Commerce-AI-Intelligence-Platform/
 │   ├── App.py
 │   ├── notebooks/
-│   ├── screenshots/
 │   ├── reports/
-│   └── models/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
