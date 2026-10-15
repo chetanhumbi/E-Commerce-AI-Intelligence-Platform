@@ -109,13 +109,6 @@ E-Commerce-AI-Intelligence-Platform/
 
 > **Reproducibility note:** Check the paths and filenames in `app.py` before running. This repository may not be runnable until the trained artifacts and any required item metadata are supplied. For large files, use an appropriate artifact storage method rather than committing them directly to GitHub.
 
-## Screenshots
-
-Add screenshots of the dashboard here using the **exact paths** in your repository, for example:
-
-```markdown
-![Streamlit dashboard](screenshots/dashboard.png)
-```
 
 ## Key learnings
 
