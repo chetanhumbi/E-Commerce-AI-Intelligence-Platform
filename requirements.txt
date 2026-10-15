@@ -1,0 +1,19 @@
+# Core data processing
+numpy
+pandas
+
+# Machine learning and saved preprocessing/model artifacts
+scikit-learn
+joblib
+tensorflow
+
+# Interactive dashboard
+streamlit
+
+# Analysis and plotting
+matplotlib
+seaborn
+
+# Notebook support (needed to run the training notebooks)
+jupyter
+ipykernel
