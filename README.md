@@ -67,11 +67,20 @@ The repository contains the Streamlit application, data analysis notebooks, trai
 
 E-Commerce-AI-Intelligence-Platform/
 ├── E-Commerce-AI-Intelligence-Platform/
-│   ├── App.py
-│   ├── notebooks/
-│   ├── reports/
-├── requirements.txt
+│   ├── App/
+│   │   └── App.py
+│   ├── Notebooks/
+│   │   └── CP2.ipynb
+│   ├── Reports/
+│   └── Saved models/
+│       ├── purchase_intent_ann.keras
+│       ├── purchase_intent_scaler.pkl
+│       ├── purchase_intent_config.json
+│       ├── recommender_neighbors.pkl
+│       ├── product_metadata.pkl
+│       └── recommender_config.json
 ├── README.md
+├── requirements.txt
 └── .gitignore
 
 
